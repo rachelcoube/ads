@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="Google Web Designer 7.0.1.1008">
+  <meta name="template" content="Banner 3.0.0">
+  <meta name="environment" content="gwd-dv360">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="gwdpage_style.css" rel="stylesheet" data-version="12" data-exports-type="gwd-page">
+  <link href="gwdpagedeck_style.css" rel="stylesheet" data-version="12" data-exports-type="gwd-pagedeck">
+  <link href="gwdgooglead_style.css" rel="stylesheet" data-version="6" data-exports-type="gwd-google-ad">
+  <style type="text/css" id="gwd-lightbox-style">
+    .gwd-lightbox {
+      overflow: hidden;
+    }
+  </style>
+  <style type="text/css" id="gwd-text-style">
+    p {
+      margin: 0px;
+    }
+    h1 {
+      margin: 0px;
+    }
+    h2 {
+      margin: 0px;
+    }
+    h3 {
+      margin: 0px;
+    }
+  </style>
+  <style type="text/css">
+    html, body {
+      width: 100%;
+      height: 100%;
+      margin: 0px;
+    }
+    .gwd-page-container {
+      position: relative;
+      width: 100%;
+      height: 100%;
+    }
+    .gwd-page-content {
+      background-color: transparent;
+      transform: perspective(1400px) matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+      transform-style: preserve-3d;
+      position: absolute;
+    }
+    .gwd-page-wrapper {
+      background-color: rgb(255, 255, 255);
+      position: absolute;
+      transform: translateZ(0px);
+    }
+    .gwd-page-size {
+      width: 160px;
+      height: 600px;
+    }
+    .gwd-span-19p5 {
+      position: absolute;
+      font-family: "Arial Black";
+      width: 140px;
+      font-size: 45px;
+      margin: 0px;
+      transform-origin: 84.4829px 200.625px 0px;
+      left: 11px;
+      top: 180px;
+      line-height: 0.8;
+      background-image: none;
+      background-color: transparent;
+      color: rgb(153, 1, 4);
+      height: 90px;
+      opacity: 0;
+    }
+    .gwd-span-1i2i {
+      position: absolute;
+      font-family: "Arial Black";
+      font-size: 20px;
+      top: 286px;
+      left: 48px;
+      opacity: 0;
+      transform-style: preserve-3d;
+      border-image-source: none;
+      border-image-width: 1;
+      border-image-outset: 0;
+      border-image-repeat: stretch;
+      border-color: rgb(253, 251, 251);
+      color: rgb(100, 0, 2);
+      transform: translate3d(0px, -4px, 0px);
+    }
+    .gwd-span-r4zm {
+      position: absolute;
+      font-family: "Arial Black";
+      width: 140px;
+      font-size: 45px;
+      height: 89px;
+      transform-origin: 84.4829px 166.875px 0px;
+      left: 11px;
+      top: 334px;
+      line-height: 0.8;
+      opacity: 0;
+      color: rgb(153, 1, 4);
+    }
+    .gwd-rect-1au0 {
+      position: absolute;
+      top: -1px;
+      box-sizing: border-box;
+      border-width: 1px;
+      border-style: solid;
+      border-image-source: none;
+      border-image-width: 1;
+      border-image-outset: 0;
+      border-image-repeat: stretch;
+      border-color: transparent;
+      background-image: none;
+      width: 160px;
+      background-color: rgb(153, 1, 4);
+      left: 0px;
+      height: 270px;
+    }
+    .gwd-svg-1k27 {
+      top: 330px;
+    }
+    .gwd-svg-1ij4 {
+      top: 270px;
+      height: 60px;
+      opacity: 1;
+      width: 0px;
+      transform-style: preserve-3d;
+      transform: translate3d(-20px, 0px, 0px) scale3d(1, 1, 1);
+    }
+    .gwd-svg-ao37 {
+      height: 0px;
+      transform-origin: 80px 1px;
+      transform-style: preserve-3d;
+      opacity: 1;
+      transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1);
+    }
+    @keyframes gwd-gen-ewfegwdanimation_gwd-keyframes {
+      0% {
+        height: 0px;
+        opacity: 1;
+        width: 160px;
+        transform-origin: 80px 1px;
+        transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1);
+        animation-timing-function: ease-out;
+      }
+      45.4545% {
+        height: 524px;
+        opacity: 1;
+        width: 160px;
+        transform-origin: 80px 262px 0px;
+        transform: translate3d(0px, 0px, 0px) scale3d(1, 1.29485, 1);
+        animation-timing-function: linear;
+      }
+      54.5455% {
+        height: 524px;
+        opacity: 1;
+        width: 160px;
+        transform-origin: 80px 262px 0px;
+        transform: translate3d(0px, 30px, 0px) scale3d(1, 1.18035, 1);
+        animation-timing-function: ease-out;
+      }
+      100% {
+        height: 524px;
+        opacity: 1;
+        width: 160px;
+        transform-origin: 80px 262px 0px;
+        transform: translate3d(0px, 339px, 0px) scale3d(1, 0.00104343, 1);
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-ewfegwdanimation {
+      animation: 2.2s linear 0s 1 normal forwards running gwd-gen-ewfegwdanimation_gwd-keyframes;
+    }
+    @keyframes gwd-gen-1ioqgwdanimation_gwd-keyframes {
+      0% {
+        opacity: 0;
+        animation-timing-function: linear;
+      }
+      100% {
+        opacity: 1;
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-1ioqgwdanimation {
+      animation: 0.8s linear 0.6s 1 normal forwards running gwd-gen-1ioqgwdanimation_gwd-keyframes;
+    }
+    @keyframes gwd-gen-10wzgwdanimation_gwd-keyframes {
+      0% {
+        opacity: 0;
+        color: rgb(255, 255, 255);
+        font-size: 20px;
+        transform: translate3d(0px, -4px, 0px);
+        border-color: rgb(253, 251, 251);
+        animation-timing-function: linear;
+      }
+      92.8571% {
+        opacity: 0;
+        color: rgb(255, 255, 255);
+        font-size: 22px;
+        transform: translate3d(-2px, -4px, 0px);
+        border-color: rgb(253, 251, 251);
+        animation-timing-function: linear;
+      }
+      100% {
+        opacity: 1;
+        color: rgb(255, 255, 255);
+        font-size: 22px;
+        transform: translate3d(-2px, -4px, 0px);
+        border-color: rgb(253, 251, 251);
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-10wzgwdanimation {
+      animation: 2.8s linear 0s 1 normal forwards running gwd-gen-10wzgwdanimation_gwd-keyframes;
+    }
+    .gwd-rect-auxe {
+      top: 599px;
+      transform-origin: 80px 0.5px 0px;
+      height: 0px;
+      opacity: 0;
+      transform-style: preserve-3d;
+      transform: translate3d(0px, 0px, 0px);
+    }
+    @keyframes gwd-gen-1daqgwdanimation_gwd-keyframes {
+      0% {
+        opacity: 0;
+        height: 0px;
+        transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1);
+        animation-timing-function: ease-out;
+      }
+      64% {
+        opacity: 0;
+        height: 0px;
+        transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1);
+        animation-timing-function: ease-out;
+      }
+      72% {
+        opacity: 1;
+        height: 270px;
+        transform: translate3d(0px, -277px, 0px) scale3d(1, 1.14815, 1);
+        animation-timing-function: ease-out;
+      }
+      100% {
+        opacity: 1;
+        height: 270px;
+        transform: translate3d(0px, 23px, 0px) scale3d(1, 1.14815, 1);
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-1daqgwdanimation {
+      animation: 5s linear 0s 1 normal forwards running gwd-gen-1daqgwdanimation_gwd-keyframes;
+    }
+    @keyframes gwd-gen-1risgwdanimation_gwd-keyframes {
+      0% {
+        opacity: 0;
+        color: rgb(153, 1, 4);
+        animation-timing-function: linear;
+      }
+      94.7368% {
+        opacity: 0;
+        color: rgb(153, 1, 4);
+        animation-timing-function: linear;
+      }
+      100% {
+        opacity: 1;
+        color: rgb(153, 1, 4);
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-1risgwdanimation {
+      animation: 3.8s linear 0s 1 normal forwards running gwd-gen-1risgwdanimation_gwd-keyframes;
+    }
+    @keyframes gwd-gen-11x8gwdanimation_gwd-keyframes {
+      0% {
+        opacity: 1;
+        transform: translate3d(-20px, -4px, 0px) scale3d(1, 1, 1);
+        width: 0px;
+        animation-timing-function: ease-out;
+      }
+      47.0588% {
+        opacity: 1;
+        transform: translate3d(-79px, -4px, 0px) scale3d(0.00625, 1, 1);
+        width: 0px;
+        animation-timing-function: ease-out;
+      }
+      58.8235% {
+        opacity: 0.8333;
+        transform: translate3d(-66px, -4px, 0px) scale3d(0.17185, 1, 1);
+        width: 0px;
+        animation-timing-function: ease-out;
+      }
+      76.4706% {
+        opacity: 1;
+        transform: translate3d(0px, -4px, 0px) scale3d(1, 1, 1);
+        width: 160px;
+        animation-timing-function: linear;
+      }
+      82.3529% {
+        opacity: 1;
+        transform: translate3d(0px, -4px, 0px) scale3d(1, 1, 1);
+        width: 160px;
+        animation-timing-function: ease-out;
+      }
+      100% {
+        opacity: 1;
+        transform: translate3d(87px, -4px, 0px) scale3d(0.00625, 1, 1);
+        width: 160px;
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-11x8gwdanimation {
+      animation: 3.4s linear 0s 1 normal forwards running gwd-gen-11x8gwdanimation_gwd-keyframes;
+    }
+    .gwd-svg-1loj {
+      opacity: 0;
+      transform: translate3d(-35px, -4px, 0px) scale3d(1, 1, 1);
+      background-color: rgb(95, 0, 2);
+    }
+    .gwd-svg-1l21 {
+      transform: translate3d(-20px, -4px, 0px) scale3d(1, 1, 1);
+    }
+    @keyframes gwd-gen-4f1qgwdanimation_gwd-keyframes {
+      0% {
+        opacity: 0;
+        transform: translate3d(-35px, -4px, 0px) scale3d(1, 1, 1);
+        background-color: rgb(95, 0, 2);
+        animation-timing-function: ease-out;
+      }
+      61.5385% {
+        opacity: 1;
+        transform: translate3d(-35px, -4px, 0px) scale3d(1, 1, 1);
+        background-color: rgb(95, 0, 2);
+        animation-timing-function: linear;
+      }
+      76.9231% {
+        opacity: 1;
+        transform: translate3d(-65px, -4px, 0px) scale3d(1, 1, 1);
+        background-color: rgb(95, 0, 2);
+        animation-timing-function: ease-out;
+      }
+      100% {
+        opacity: 1;
+        transform: translate3d(47px, -4px, 0px) scale3d(112.5, 1, 1);
+        background-color: rgb(95, 0, 2);
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-4f1qgwdanimation {
+      animation: 2.6s linear 0s 1 normal forwards running gwd-gen-4f1qgwdanimation_gwd-keyframes;
+    }
+  </style>
+  <link href="https://fonts.googleapis.com/css?family=Oswald:200,300,regular,500,600,700" rel="stylesheet" type="text/css">
+  <script data-source="googbase_min.js" data-version="4" data-exports-type="googbase" src="googbase_min.js"></script>
+  <script data-source="gwd_webcomponents_min.js" data-version="6" data-exports-type="gwd_webcomponents" src="gwd_webcomponents_min.js"></script>
+  <script data-source="gwdpage_min.js" data-version="12" data-exports-type="gwd-page" src="gwdpage_min.js"></script>
+  <script data-source="gwdpagedeck_min.js" data-version="12" data-exports-type="gwd-pagedeck" src="gwdpagedeck_min.js"></script>
+  <script data-source="https://s0.2mdn.net/ads/studio/Enabler.js" data-exports-type="gwd-google-ad" src="https://s0.2mdn.net/ads/studio/Enabler.js"></script>
+  <script data-source="gwdgooglead_min.js" data-version="6" data-exports-type="gwd-google-ad" src="gwdgooglead_min.js"></script>
+</head>
+
+<body>
+  <gwd-google-ad id="gwd-ad" polite-load="">
+    <gwd-metric-configuration></gwd-metric-configuration>
+    <gwd-pagedeck class="gwd-page-container" id="pagedeck">
+      <gwd-page id="page1" class="gwd-page-wrapper gwd-page-size gwd-lightbox" data-gwd-width="160px" data-gwd-height="600px">
+        <div class="gwd-page-content gwd-page-size"><span class="gwd-span-r4zm gwd-gen-1risgwdanimation">ENDS<br>WELL</span>
+          <svg data-gwd-shape="rectangle" class="gwd-rect-1au0 gwd-svg-1k27 gwd-rect-auxe gwd-gen-1daqgwdanimation" id="bottom"></svg>
+          <svg data-gwd-shape="rectangle" class="gwd-rect-1au0 gwd-svg-1k27 gwd-svg-1ij4 gwd-svg-1loj gwd-gen-4f1qgwdanimation" id="center-static"></svg><span class="gwd-span-1i2i gwd-gen-10wzgwdanimation" style="color: rgb(255, 255, 255);">THAT</span>
+          <svg data-gwd-shape="rectangle" class="gwd-rect-1au0 gwd-svg-1k27 gwd-svg-1ij4 gwd-gen-11x8gwdanimation gwd-svg-1l21" id="center_mov"></svg><span class="gwd-span-19p5 gwd-gen-1ioqgwdanimation">ALL'S WELL</span>
+          <svg data-gwd-shape="rectangle" class="gwd-rect-1au0 gwd-svg-ao37 gwd-gen-ewfegwdanimation" id="up"></svg>
+        </div>
+      </gwd-page>
+    </gwd-pagedeck>
+  </gwd-google-ad>
+  <script type="text/javascript" id="gwd-init-code">
+    (function() {
+      var gwdAd = document.getElementById('gwd-ad');
+
+      /**
+       * Handles the DOMContentLoaded event. The DOMContentLoaded event is
+       * fired when the document has been completely loaded and parsed.
+       */
+      function handleDomContentLoaded(event) {
+
+      }
+
+      /**
+       * Handles the WebComponentsReady event. This event is fired when all
+       * custom elements have been registered and upgraded.
+       */
+      function handleWebComponentsReady(event) {
+        // Start the Ad lifecycle.
+        setTimeout(function() {
+          gwdAd.initAd();
+        }, 0);
+      }
+
+      /**
+       * Handles the event that is dispatched after the Ad has been
+       * initialized and before the default page of the Ad is shown.
+       */
+      function handleAdInitialized(event) {}
+
+      window.addEventListener('DOMContentLoaded',
+        handleDomContentLoaded, false);
+      window.addEventListener('WebComponentsReady',
+        handleWebComponentsReady, false);
+      window.addEventListener('adinitialized',
+        handleAdInitialized, false);
+    })();
+  </script>
+</body>
+
+</html>
